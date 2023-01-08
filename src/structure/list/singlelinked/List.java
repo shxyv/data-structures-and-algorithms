@@ -1,9 +1,13 @@
-package structure.list;
+package structure.list.singlelinked;
 
 public interface List<T> {
     void add(T value);
+
     void remove(long index);
 
     T get(long index);
+
     void print();
+
+    Long size();
 }

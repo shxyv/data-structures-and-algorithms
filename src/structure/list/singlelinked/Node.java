@@ -1,4 +1,4 @@
-package structure.list;
+package structure.list.singlelinked;
 
 public class Node<T> {
     private T value;
