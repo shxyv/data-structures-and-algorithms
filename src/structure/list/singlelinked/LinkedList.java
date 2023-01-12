@@ -1,6 +1,7 @@
 package structure.list.singlelinked;
 
 import java.util.Objects;
+import structure.list.List;
 import structure.list.error.NoDataFoundException;
 
 public class LinkedList<T> implements List<T> {

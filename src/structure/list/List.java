@@ -1,4 +1,4 @@
-package structure.list.singlelinked;
+package structure.list;
 
 public interface List<T> {
     void add(T value);
