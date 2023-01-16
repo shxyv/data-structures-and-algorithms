@@ -1,4 +1,4 @@
-package structure.list.singlelinked;
+package structure.list.singlylinkedlist;
 
 public class DemoApp {
     public static void main(String[] args) {

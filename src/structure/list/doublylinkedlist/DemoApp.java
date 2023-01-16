@@ -1,4 +1,4 @@
-package structure.list.doublylinked;
+package structure.list.doublylinkedlist;
 
 public class DemoApp {
 

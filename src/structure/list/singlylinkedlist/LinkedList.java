@@ -1,4 +1,4 @@
-package structure.list.singlelinked;
+package structure.list.singlylinkedlist;
 
 import java.util.Objects;
 import structure.list.List;
