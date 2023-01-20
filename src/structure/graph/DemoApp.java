@@ -1,7 +1,5 @@
 package structure.graph;
 
-import java.util.Map;
-
 public class DemoApp {
 
     public static void main(String[] args) {
